@@ -3,7 +3,7 @@
 | 1 | PMG201c SP26 Tổng ôn siêu nhanh, gọn, dễ hỉu phần 2 | [Xem Video](https://youtu.be/3gnk4qo2Fnc) | CDTS | 463 | Intermediate | 2026-04-15 |
 | 2 | PMG201c SP26 Tổng ôn siêu nhanh, gọn, dễ hỉu phần 1 | [Xem Video](https://youtu.be/cUx7hqbVsPU) | CDTS | 399 | Intermediate | 2026-04-15 |
 | 3 | Full Chữa Đề PMG201c Kỳ FA25 | [Xem Video](https://youtu.be/JmQ-Fezg5MY) | CDTS | 516 | Advanced | 2025-12-07 |
-| 4 | Chữa đề PMG201c PE Summer 2025 | [Xem Video](https://www.youtube.com/watch?v=_vjq3Df7nlc) | Leif is loading | 373 | Intermediate | 2025-12-03 |
+| 4 | Chữa đề PMG201c PE Summer 2025 | [Xem Video](https://www.youtube.com/watch?v=_vjq3Df7nlc) | CDTS | 373 | Intermediate | 2025-12-03 |
 | 5 | SU25 - Buổi 2 - Phần 1 | [Xem Video](https://youtu.be/1XK1cFc3Em8) | CDTS | 422 | Intermediate | 2025-10-29 |
 | 6 | SU25 - Buổi 2 - Phần 2 | [Xem Video](https://youtu.be/Z6djuYUsxKc) | CDTS | 201 | Intermediate | 2025-10-29 |
 | 7 | SU25 Buổi 1 | [Xem Video](https://youtu.be/sckIYZ41Drk) | CDTS | 409 | Intermediate | 2025-10-29 |
