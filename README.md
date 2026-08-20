@@ -2,7 +2,7 @@
 
 | # | Nội dung | Link | Video trên web |
 |---|---|---|---|
-| 0 | Chữa đề SP26 | [Doc]([https://docs.google.com/document/d/1RVHFHImkr4GCZ8CFIT3BZd2oTJ7sgLQa0ql8jd5OegE/edit?tab=t.0](https://docs.google.com/document/d/11K2HCz4xyveuKMPqvCD1fMbtUT5IBgGMqDluOv_zr8o/edit?usp=sharing)) | [Chữa đề](https://youtu.be/bVWDfQ0xsf4) |
+| 0 | Chữa đề SP26 | [Doc](https://docs.google.com/document/d/11K2HCz4xyveuKMPqvCD1fMbtUT5IBgGMqDluOv_zr8o/edit?usp=sharing) | [Chữa đề](https://youtu.be/bVWDfQ0xsf4) |
 | 0 | Record ôn siêu tốc 40p sp26 | [CanvaSP26](https://www.canva.com/design/DAHEeMZTEiQ/jHchLMHW6hWY6By1UldKEQ/edit?utm_content=DAHEeMZTEiQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | PMG201c SP26 Tổng ôn siêu nhanh, gọn, dễ hỉu phần 1,2 |
 | 1 | Chữa đề FA25 | [CanvaFA25](https://www.canva.com/design/DAG6wuajI2o/iQpBbbDOdEjLI1ECIyYQGQ/edit?utm_content=DAG6wuajI2o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | Full Chữa Đề PMG201c Kỳ FA25 |
 | 2 | Chữa đề SU25 | [CanvaSU25buổi2](https://www.canva.com/design/DAGv2Q7H058/immN5NCsgPzWtx-V-zi4yA/edit?utm_content=DAGv2Q7H058&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | Chữa đề PMG201c PE Summer 2025 |
